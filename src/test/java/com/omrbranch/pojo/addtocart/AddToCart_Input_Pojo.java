@@ -26,4 +26,16 @@ public class AddToCart_Input_Pojo {
 		System.out.println("karthi");
 	}
 
+	public void developing1() {
+		System.out.println("vignesh");
+
+	}
+
+	public void developing2() {
+		System.out.println("mari muthu");
+	}
+
+	public void developing3() {
+		System.out.println("madhan");
+	}
 }
