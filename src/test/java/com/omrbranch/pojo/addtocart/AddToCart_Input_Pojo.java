@@ -38,4 +38,16 @@ public class AddToCart_Input_Pojo {
 	public void developing3() {
 		System.out.println("madhan");
 	}
+	
+	public void designer1() {
+		System.out.println("madhan");
+	}
+	
+	public void designer2() {
+		System.out.println("madhan");
+	}
+	
+	public void designer3() {
+		System.out.println("madhan");
+	}
 }
