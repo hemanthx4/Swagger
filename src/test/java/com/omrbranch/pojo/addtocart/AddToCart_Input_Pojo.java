@@ -11,7 +11,19 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class AddToCart_Input_Pojo {
 	public String product_id;
-    public String product_variation_id;
-    public String type;
+	public String product_variation_id;
+	public String type;
 
+	public void developing1() {
+		System.out.println("vignesh");
+
+	}
+
+	public void developing2() {
+		System.out.println("mari muthu");
+	}
+
+	public void developing3() {
+		System.out.println("madhan");
+	}
 }
