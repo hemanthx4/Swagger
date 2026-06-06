@@ -14,6 +14,18 @@ public class AddToCart_Input_Pojo {
 	public String product_variation_id;
 	public String type;
 
+	public void testing1() {
+		System.out.println("Hemanth");
+	}
+
+	public void testing2() {
+		System.out.println("sam");
+	}
+
+	public void testing3() {
+		System.out.println("karthi");
+	}
+
 	public void developing1() {
 		System.out.println("vignesh");
 
